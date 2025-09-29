@@ -1,1 +1,1 @@
-This is a new file for Lab 3.
+This is a new test file for Lab 3
